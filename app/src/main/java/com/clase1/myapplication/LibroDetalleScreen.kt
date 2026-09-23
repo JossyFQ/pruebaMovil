@@ -55,7 +55,7 @@ fun LibroDetalleScreen(
             )
 
             Spacer(modifier = Modifier.height(12.dp))
-            Text("Imagen: ${libro.imagenUrl}")
+            Text("Imagen: ${libro.imageResourceId}")
 
             Spacer(modifier = Modifier.height(16.dp))
             Text("Descripción: ${libro.descripcion}")
