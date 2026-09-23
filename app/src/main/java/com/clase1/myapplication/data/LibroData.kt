@@ -9,7 +9,7 @@ val libros = listOf(
     Libro(
         1,
         "Serpientes de animales y dioses",
-        "https://ejemplo.com/silla1.jpg",
+        R.drawable.koda,
         "Una realidad con pragmalidad de dioses y descripcion en el contenido",
         12.00,
     ),
@@ -17,7 +17,7 @@ val libros = listOf(
     Libro(
         2,
         "Serpentais animales",
-        "https://ejemplo.com/silla2.jpg",
+        R.drawable.frankie,
         "Una realidad con pragmalidad de dioses y descripcion en el contenido",
         25.00,
     ),
@@ -25,14 +25,14 @@ val libros = listOf(
     Libro(
         3,
         "Silla Moderna",
-        "https://ejemplo.com/silla3.jpg",
+        R.drawable.faye,
         "Diseño moderno para el hogar.",
         15.00,
     ),
     Libro(
         4,
         "Silla Clásica",
-        "https://ejemplo.com/silla4.jpg",
+        R.drawable.bella,
         "Silla de estilo clásico.",
         150.0,
     ),
@@ -40,14 +40,14 @@ val libros = listOf(
     Libro(
         5,
         "Serpientes de animales y dioses 2",
-        "https://ejemplo.com/silla2.jpg",
+        R.drawable.nox,
         "Una realidad con pragmalidad de dioses y descripcion en el contenido",
         12.00,
     ),
     Libro(
         6,
         "Serpientes de animales y dioses 3",
-        "https://ejemplo.com/silla3.jpg",
+        R.drawable.moana,
         "Una realidad con pragmalidad de dioses y descripcion en el contenido",
         12.00,
     ),
